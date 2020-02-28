@@ -1,7 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.optimize
-% matplotlib inline
+import seaborn as sns
+sns.set_style('dark')
 
 E = np.linspace(-20,20,1000)
 
