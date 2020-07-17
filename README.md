@@ -1,4 +1,4 @@
-#SuperCOOP
+# SuperCOOP
 
 Welcome to the SuperCOOP repository. This repository contains Team SuperCOOP's capstone research project in its entirety. Over the course of a year the team set out to measure the superconducting gap energy of a piece of niobium tantalum-foil (and validate the 1972 Nobel Prize-Winning BCS experiment). The entirety of the research, analysis and results can be found in this repository including the final paper in .pdf format.
 
